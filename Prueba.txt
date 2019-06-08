@@ -1,1 +1,8 @@
 Hola esta una prueba
+
+La cual debemos enviar dar un add
+
+Primero se envia un add , luego un commit , para enviar todo usamos el.
+
+
+
