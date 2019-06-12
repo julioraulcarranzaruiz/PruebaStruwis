@@ -4,5 +4,6 @@ La cual debemos enviar dar un add
 
 Primero se envia un add , luego un commit , para enviar todo usamos el.
 
+Evelin mi mujer , la persona estragica
 
 
